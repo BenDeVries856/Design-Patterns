@@ -40,5 +40,7 @@ You can pause, stop, fast forward, or rewind the song using the State Pattern.<b
 <br>
 <br>
 ANOTHER ONE USING COMMAND:<br>
+Lets you enter an x and y coordinate to move the square to on the screen.<br>
+Works similarily to the other command pattern program with and undo button.<br>
 <img src="Undo.PNG" width="200">
 <br>
